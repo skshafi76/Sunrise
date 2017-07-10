@@ -1,0 +1,5 @@
+C:\Tools-Internal\CustomizeBuildNumber\CustomBuildNumberGenerator\bin\Release\CustomBuildNumberGenerator.dll
+C:\Tools-Internal\CustomizeBuildNumber\CustomBuildNumberGenerator\bin\Release\CustomBuildNumberGenerator.pdb
+C:\Tools-Internal\CustomizeBuildNumber\CustomBuildNumberGenerator\obj\Release\ResolveAssemblyReference.cache
+C:\Tools-Internal\CustomizeBuildNumber\CustomBuildNumberGenerator\obj\Release\CustomBuildNumberGenerator.dll
+C:\Tools-Internal\CustomizeBuildNumber\CustomBuildNumberGenerator\obj\Release\CustomBuildNumberGenerator.pdb

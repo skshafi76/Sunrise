@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[CustomBuildNumberGenerator.csproj]
+SCC_Aux_Path = "\\VCRCMVSS01\VSS-CM$"
+SCC_Project_Name = "$/Utility/C#/CustomBuildNumberGenerator/CustomBuildNumberGenerator", HPFAAAAA
